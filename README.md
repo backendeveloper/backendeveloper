@@ -15,7 +15,7 @@
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=juniordeveloper&cover_image=true&theme=natemoo-re)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=juniordeveloper&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
 ### Connect with me: 
 
