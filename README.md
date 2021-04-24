@@ -13,7 +13,7 @@
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
 ### Spotify Playing 🎧
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=juniordeveloper&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=juniordeveloper&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=juniordeveloper&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=juniordeveloper&redirect=true)
 
 ### Connect with me:
 
