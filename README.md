@@ -27,6 +27,7 @@
 [<img align="left" alt="backendeveloper | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+<br />
 
 <a href="https://www.buymeacoffee.com/backendeveloper" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
@@ -53,7 +54,7 @@
 <br />
 
 <details>
-  <summary>GitHub Stats</summary>
+  <summary> GitHub Stats</summary>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=backendeveloper&layout=compact&show_icons=true&theme=radical)](https://github.com/backendeveloper/github-readme-stats)
 
