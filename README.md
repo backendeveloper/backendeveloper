@@ -1,6 +1,6 @@
 
 
-### Hi there, I'm Kaan - aka [backendeveloper][website] 👋
+### Hi there, I'm Kaan - aka [backendeveloper][website] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![Website](https://img.shields.io/website?label=backendeveloper.com&style=for-the-badge&url=https://backendeveloper.com)](https://backendeveloper.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/backendeveloper?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fbackendeveloper&screen_name=backendeveloper)
@@ -18,7 +18,7 @@
 ### Spotify Playing 🎧
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=juniordeveloper&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=juniordeveloper&redirect=true)
 
-### Connect with me:
+### Connect with me: 
 
 [<img align="left" alt="backendeveloper.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="backendeveloper | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
