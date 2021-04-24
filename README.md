@@ -26,6 +26,7 @@
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="backendeveloper | LinkedIn" width="22px" align="left" />][linkedin]
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" alt="backendeveloper | Medium" width="22px" align="left" />][medium]
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stackoverflow" height="22px" width="22px" align="left" />][stackoverflow]
+[<img src="https://img.icons8.com/ios-filled/25/000000/gmail.png" alt="mail" height="22px" width="22px" align="left" />][mail]
 
 <br />
 <br />
@@ -86,6 +87,7 @@
 [instagram]: https://instagram.com/backendeveloper
 [medium]: https://medium.com/backendeveloper
 [linkedin]: https://www.linkedin.com/in/kaanuygur
+[mail]: mailto:previousdeveloper+github@gmail.com
 [stackoverflow]: https://stackoverflow.com/users/1930436/kaan-uygur
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
