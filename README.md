@@ -78,7 +78,7 @@
 ---
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
+  <summary>Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
 1. ❌ Closed PR [#1](https://github.com/codeSTACKr/spotify-now-playing/pull/1) in [codeSTACKr/spotify-now-playing](https://github.com/codeSTACKr/spotify-now-playing)
@@ -91,9 +91,11 @@
 </details>
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>GitHub Stats</summary>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=backendeveloper&layout=compact&show_icons=true&theme=radical)](https://github.com/backendeveloper/github-readme-stats)
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+![backendeveloper's GitHub stats](https://github-readme-stats.vercel.app/api?username=backendeveloper&show_icons=true&theme=radical)
 
 </details>
 
