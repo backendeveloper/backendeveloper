@@ -20,13 +20,12 @@
 ### Connect with me: 
 
 [<img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="backendeveloper.com" width="22px" align="left" />][website]
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="backendeveloper | YouTube" width="22px" align="left" />][youtube]
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="backendeveloper | Twitter" width="22px" align="left" />][twitter]
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="backendeveloper | Instagram" width="22px" align="left" />][instagram]
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="backendeveloper | LinkedIn" width="22px" align="left" />][linkedin]
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" alt="backendeveloper | Medium" width="22px" align="left" />][medium]
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stackoverflow" height="22px" width="22px" align="left" />][stackoverflow]
-
+[<img src="https://img.icons8.com/ios-filled/25/000000/gmail.png" alt="mail" height="22px" width="22px" align="left" />][mail]
 
 <br />
 <br />
@@ -83,7 +82,6 @@
 [website]: https://kaanuygur.com
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/backendeveloper
-[youtube]: https://www.youtube.com/channel/UC4UtJDLhWCf2D_SCUg3i-rA
 [instagram]: https://instagram.com/backendeveloper
 [medium]: https://medium.com/backendeveloper
 [linkedin]: https://www.linkedin.com/in/kaanuygur
