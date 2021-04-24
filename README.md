@@ -23,8 +23,8 @@
 [<img align="left" alt="backendeveloper.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="backendeveloper | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="backendeveloper | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="backendeveloper | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="backendeveloper | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="backendeveloper | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="backendeveloper | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" />][medium]
 
 <br />
@@ -34,26 +34,31 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
-[<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][webdevplaylist]
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][webdevplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
-[<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][webdevplaylist]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
+[<img src="https://img.icons8.com/color/25/000000/golang.png" alt="golang" width="25" height="25" />][golang]
+[<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAZCAYAAADE6YVjAAAABmJLR0QA/wD/AP+gvaeTAAACm0lEQVRIia2UT29VVRTFf+vc++57r+0D2teg1EArwZgAsQMDEh3YRMVEgwkDE+OExC+hI79DJwz4FMaBJIwMxJETa2LiTNBGq9gIpe/vvfcsBw/bRO6Da+0annP2Wnvvs/aGQ8IPH57Lfr2ytlh1Fw5DYPPqxe5Cf+FLUX5edZ8elPj+B28slQ7vGX9M4bOIRUXfPZDIT2trrWZntEIMZ6VwCcfXLK0UVgP7GNAGASaqujOVIptXXr8eoq4JGRWRGIzUBDeREID9RJxMp7ZILL2WhDCzH61nFfxUHPhP/g2JiMJGbZEg1RY3EKOxY28W3aktwuQnq0ltIpDHkq3eLhv3f+e33Ue8u3Kmc/Jo5zqwWktE1tiCaFNGM44Ffw2H3N15wB/9PtvDPrY52TnC+cXjXD51mlaaUsTYqF1JY7bxVj4oLiTS/Nj5quBCd2bmxefac8csZzKNUlYikYVkLy64ugGVIqPB+LMEfQJSO82iUIxyU6ZdybLXAupX4ujLCmHP88boybGojUPZXY/hAN/WFpFqzo8Bm2iTF7EX0rBe9azaXU8ZcT8mLaL5c9jn++0t7j3c4Z3l03On0iM3qGthIIfJkJU2uUseDIf8svuIrd4O24MBo1jywlyHl+e7vLm0TCttUP4XCxchfT8lXnLg6DgvVi1W55vt5flWu/PK4vFMkEWjJIhmsm/had6oFGm6eBXCpwnqzjWyzJPwFqhyy+5D9SuRw9vWpLeT7P7fFj5EC9tB4bvaIhYzVefT2IGBxPqJ9omPqh5Uu8s0pnXIYOEcNDL6MSGuezz7xfO3bvWmZVG9VoJGsguJ3KYQ9AWbpeLXIep2tDeWvvrm3rNK/AeV+W5evdjN8tbCw3L255du3hzVJZuGvwGqxAme4IfHCQAAAABJRU5ErkJggg==" alt="scala" width="25" height="25">][scala]
+[<img src="https://img.icons8.com/color/25/000000/python.png" alt="python" width="25" height="25" />][python]
+[<img src="https://dotnet.microsoft.com/static/images/redesign/downloads-dot-net-core.svg?v=p6MWQNHwEtnnx0MWJ-i7vCMt-sZmoBf6h-7XmdSs5RE.svg" alt="net" width="25" height="25" />][net]
+[<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="25" height="25" />][spring]
+[<img src="https://img.icons8.com/color/25/000000/react-native.png" alt="react" width="25" height="25" />][react]
+[<img src="https://img.icons8.com/color/25/000000/vue-js.png" alt="vue" width="25" height="25" />][vue]
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="25" height="25" />][angular]
+[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="node" width="25" height="25" />][node]
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />][javascript]
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" />][typescript]
+[<img src="https://img.icons8.com/color/25/000000/flutter.png" alt="flutter" width="25" height="25" />][flutter]
+[<img src="https://cncf-branding.netlify.app/img/projects/grpc/icon/color/grpc-icon-color.png" alt="grpc" width="25" height="25" />][grpc]
+[<img src="https://symbols.getvecta.com/stencil_83/17_hashicorp-icon.ba430498ee.svg" alt="grpc" width="25" height="25" />][hashicorp]
+[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="25" height="25" />][aws]
+[<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="25" height="25" />][gcp]
+[<img src="https://img.icons8.com/color/25/000000/firebase.png" alt="firebase" width="25" height="25" />][firebase]
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />][docker]
+[<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25" height="25" />][kubernetes]
+[<img src="https://img.icons8.com/color/25/000000/mongodb.png" alt="Mongo" width="25" height="25" />][mongo]
+[<img src="https://img.icons8.com/color/25/000000/redis.png" alt="Redis" width="25" height="25" />][redis]
+[<img src="https://img.icons8.com/color/25/000000/postgreesql.png" alt="Postgresql" width="25" height="25" />][postgresql]
+[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" width="25" height="25" />][vscode]
+[<img src="https://img.icons8.com/doodle/25/000000/console--v2.png" alt="Bash" width="25" height="25" />][bash]
 
-
-
-<br />
 <br />
 
 <details>
@@ -61,7 +66,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=backendeveloper&layout=compact&show_icons=true&theme=radical)](https://github.com/backendeveloper/github-readme-stats)
 
-![backendeveloper's GitHub stats](https://github-readme-stats.vercel.app/api?username=backendeveloper&show_icons=true&theme=gotham)
+![backendeveloper's GitHub stats](https://github-readme-stats.vercel.app/api?show_bg=1&username=backendeveloper&show_icons=true&theme=gotham)
 
 </details>
 
@@ -83,3 +88,28 @@
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+
+[spring]: https://spring.io
+[golang]: https://golang.org
+[scala]: https://www.scala-lang.org
+[python]: https://www.python.org
+[react]: https://reactjs.org
+[vue]: https://vuejs.org
+[angular]: https://angular.io
+[node]: https://nodejs.org/en
+[javascript]: https://www.javascript.com
+[typescript]: https://www.typescriptlang.org
+[flutter]: https://flutter.dev
+[grpc]: https://grpc.io
+[hashicorp]: https://www.hashicorp.com
+[aws]: https://aws.amazon.com
+[gcp]: https://cloud.google.com
+[firebase]: https://firebase.google.com
+[docker]: https://www.docker.com
+[kubernetes]: https://kubernetes.io
+[mongo]: https://www.mongodb.com
+[redis]: https://redis.io
+[postgresql]: https://www.postgresql.org
+[vscode]: https://code.visualstudio.com
+[bash]: https://devhints.io/bash
+[net]: https://dotnet.microsoft.com/learn/dotnet/what-is-dotnet
