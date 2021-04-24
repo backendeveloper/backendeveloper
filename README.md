@@ -20,12 +20,12 @@
 ### Connect with me: 
 
 [<img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="backendeveloper.com" width="22px" />][website]
-[<img align="left" alt="backendeveloper | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="backendeveloper | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="backendeveloper | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="backendeveloper | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="backendeveloper | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" />][medium]
-[<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stackoverflow" height="22px" width="22px" target="_blank" />][stackoverflow]
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="backendeveloper | YouTube" width="22px" />][youtube]
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="backendeveloper | Twitter" width="22px" />][twitter]
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="backendeveloper | Instagram" width="22px" />][instagram]
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="backendeveloper | LinkedIn" width="22px" />][linkedin]
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" alt="backendeveloper | Medium" width="22px" />][medium]
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stackoverflow" height="22px" width="22px" />][stackoverflow]
 
 <br />
 <br />
@@ -86,7 +86,7 @@
 [instagram]: https://instagram.com/backendeveloper
 [medium]: https://medium.com/backendeveloper
 [linkedin]: https://www.linkedin.com/in/kaanuygur
-[stackoverflow]: https://stackoverflow.com/questions/4425198/can-i-create-links-with-target-blank-in-markdown
+[stackoverflow]: https://stackoverflow.com/users/1930436/kaan-uygur
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
@@ -117,4 +117,4 @@
 [bash]: https://devhints.io/bash
 [net]: https://dotnet.microsoft.com/learn/dotnet/what-is-dotnet
 [elasticsearch]: https://www.elastic.co
-[ruby]: https://www.ruby-lang.org/en****
+[ruby]: https://www.ruby-lang.org/en
