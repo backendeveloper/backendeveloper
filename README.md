@@ -81,10 +81,10 @@
 [website]: https://kaanuygur.com
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/backendeveloper
-[youtube]: https://youtube.com/backendeveloper
+[youtube]: https://www.youtube.com/channel/UC4UtJDLhWCf2D_SCUg3i-rA
 [instagram]: https://instagram.com/backendeveloper
 [medium]: https://medium.com/backendeveloper
-[linkedin]: https://linkedin.com/in/kaan.uygur
+[linkedin]: https://www.linkedin.com/in/kaanuygur
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
