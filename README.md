@@ -25,10 +25,7 @@
 [<img align="left" alt="backendeveloper | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="backendeveloper | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="backendeveloper | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" />][medium]
-[<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stackoverflow" height="22px" width="22px" />][stackoverflow]
-  <a href="https://stackoverflow.com/users/4467741/aral-roca" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stackoverflow" height="22px" width="22px" />
-  </a>
+[<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stackoverflow" height="22px" width="22px" target="_blank" />][stackoverflow]
 
 <br />
 <br />
@@ -89,6 +86,7 @@
 [instagram]: https://instagram.com/backendeveloper
 [medium]: https://medium.com/backendeveloper
 [linkedin]: https://www.linkedin.com/in/kaanuygur
+[stackoverflow]: https://stackoverflow.com/questions/4425198/can-i-create-links-with-target-blank-in-markdown
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
@@ -119,4 +117,4 @@
 [bash]: https://devhints.io/bash
 [net]: https://dotnet.microsoft.com/learn/dotnet/what-is-dotnet
 [elasticsearch]: https://www.elastic.co
-[ruby]: https://www.ruby-lang.org/en
+[ruby]: https://www.ruby-lang.org/en****
