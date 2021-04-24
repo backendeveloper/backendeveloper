@@ -19,13 +19,13 @@
 
 ### Connect with me: 
 
-[<img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="backendeveloper.com" width="22px" />][website]
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="backendeveloper | YouTube" width="22px" />][youtube]
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="backendeveloper | Twitter" width="22px" />][twitter]
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="backendeveloper | Instagram" width="22px" />][instagram]
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="backendeveloper | LinkedIn" width="22px" />][linkedin]
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" alt="backendeveloper | Medium" width="22px" />][medium]
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stackoverflow" height="22px" width="22px" />][stackoverflow]
+[<img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="backendeveloper.com" width="22px" align="left" />][website]
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="backendeveloper | YouTube" width="22px" align="left" />][youtube]
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="backendeveloper | Twitter" width="22px" align="left" />][twitter]
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="backendeveloper | Instagram" width="22px" align="left" />][instagram]
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="backendeveloper | LinkedIn" width="22px" align="left" />][linkedin]
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" alt="backendeveloper | Medium" width="22px" align="left" />][medium]
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stackoverflow" height="22px" width="22px" align="left" />][stackoverflow]
 
 <br />
 <br />
