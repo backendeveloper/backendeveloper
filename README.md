@@ -1,5 +1,5 @@
 
-### Hi there, I'm Kaan- aka [backendeveloper][website] 👋
+### Hi there, I'm Kaan - aka [backendeveloper][website] 👋
 
 [![Website](https://img.shields.io/website?label=backendeveloper.com&style=for-the-badge&url=https://backendeveloper.com)](https://backendeveloper.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/backendeveloper?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fbackendeveloper&screen_name=backendeveloper)
@@ -13,8 +13,7 @@
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
 ### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=juniordeveloper&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=juniordeveloper&redirect=true)
 
 ### Connect with me:
 
