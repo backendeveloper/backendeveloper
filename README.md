@@ -7,9 +7,9 @@
 
 ## I'm a Developer
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
@@ -48,7 +48,7 @@
 [<img src="https://img.icons8.com/color/25/000000/flutter.png" alt="flutter" width="25" height="25" />][flutter]
 [<img src="https://cdn.iconscout.com/icon/free/png-256/elasticsearch-226094.png" alt="elasticsearch" width="30" height="30" />][elasticsearch]
 [<img src="https://cncf-branding.netlify.app/img/projects/grpc/icon/color/grpc-icon-color.png" alt="grpc" width="30" height="30" />][grpc]
-[<img src="https://symbols.getvecta.com/stencil_83/17_hashicorp-icon.ba430498ee.svg" alt="grpc" width="30" height="30" />][hashicorp]
+[<img src="https://img.icons8.com/fluent/25/000000/terraform.png" alt="terraform" width="30" height="30" />][terraform]
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="30" height="30" />][aws]
 [<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="30" height="30" />][gcp]
 [<img src="https://img.icons8.com/color/25/000000/firebase.png" alt="firebase" width="30" height="30" />][firebase]
@@ -103,7 +103,7 @@
 [typescript]: https://www.typescriptlang.org
 [flutter]: https://flutter.dev
 [grpc]: https://grpc.io
-[hashicorp]: https://www.hashicorp.com
+[terraform]: https://www.terraform.io
 [aws]: https://aws.amazon.com
 [gcp]: https://cloud.google.com
 [firebase]: https://firebase.google.com
